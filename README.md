@@ -1,7 +1,20 @@
 # Brain-Tumor-Detection-using-Deep-Learning
 
 The project titled “Brain Tumor Detection and Classification using Deep Learning and Machine Learning Techniques” focuses on developing an efficient and reliable system for detecting and classifying brain tumors from MRI images. The project integrates multiple approaches, including deep learning-based convolutional neural networks and machine learning techniques such as XGBoost, to improve prediction accuracy and robustness.
+
+VGG16:
+VGG16 is a deep convolutional neural network used for image classification tasks. It consists of 16 layers and is known for its simplicity and strong performance. It is widely used for feature extraction in transfer learning.
+
+PCA (Principal Component Analysis):
+PCA is a dimensionality reduction technique that transforms data into fewer important components. It helps remove redundancy while preserving maximum variance. It improves model efficiency and reduces computational cost.
+
+SVM (Support Vector Machine):
+SVM is a supervised machine learning algorithm used for classification and regression tasks. It finds the optimal hyperplane that separates different classes. It works well with high-dimensional and small datasets.
+
+XGBoost:
+XGBoost is an advanced ensemble learning algorithm based on gradient boosting. It builds multiple decision trees to improve prediction accuracy. It is widely used for structured data and high-performance models.
 About Dataset
+
 Visualizes model predictions on MRI images with correct and misclassified cases.Provides insight into model performance and classification challenges.
 
 <img width="1349" height="694" alt="image" src="https://github.com/user-attachments/assets/cac470b2-42a9-4c6a-8b10-38d91c925923" />
